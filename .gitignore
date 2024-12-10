@@ -1,0 +1,5 @@
+**/__pycache__
+/ambVirtual
+.pytest_cache
+.env
+database.db
